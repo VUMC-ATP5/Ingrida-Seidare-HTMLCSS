@@ -1,3 +1,8 @@
-# šis ir pirmais GIT repozitorijs
-## Šī ir versija 2, ka atrodas 2. zarā
-šis tiks papildināts vēlāk
+# **VĀVERE**
+## **Vāveru dzimta** (Sciuridae) ir viena no grauzēju kārtas (Rodentia) dzimtām, kas pieder vāverveidīgo (Sciuromorpha) apakškārtai. Pie vāveru dzimtas pieder gan kokos dzīvojošas vāveres, gan uz zemes dzīvojošas vāveres, gan lidvāveres, gan burunduki, gan murkšķi. Pasaulē šobrīd dzīvo 278 vāveru sugas, kas pieder 51 ģintij[1] un 5 apakšdzimtām. Visatpazīstamākās ir Eirāzijas vāveres (Sciurus vulgaris), pelēkās vāveres (Sciurus carolinensis) un Amerikas lidvāveres (Glacomys volans).
+![This is an image](https://g2.delphi.lv/images/pix/not-personality-47179973.jpg)
+
+## ***_Izskats un īpašības_*** Vāveres kopumā ir maza auguma dzīvnieki. Vismazākās ir Āfrikas pigmejvāveres (Myosciurus pumilio), kas ir 7—10 cm garas un sver tikai 10 g, vislielākās vāveres ir Alpu murkšķi (Marmota marmota), kuru ķermeņa garums ir 53—73 cm, svars 5—8 kg. Vāverēm parasti ir slaidi ķermeņi, kuplas astes un lielas acis. To apspalvojums ir mīksts un zīdains, dažām sugām biezāks, citām plānāks. Apspalvojuma krāsa ir ļoti dažāda. Vāveru pakaļkājas ir garākas par priekškājām, un katrai pēdai ir četri vai pieci pirksti. Priekškāju ķepām ir īkšķi, lai gan ir sugas, kurām tie ir vāji attīstīti. Zobi ir tipiski grauzēju zobi; lieli priekšzobi, kas aug visu mūžu, un dzerokļi iebīdīti dziļāk mutē, veidojot starp priekšzobiem un dzerokļiem brīvu telpu. Vāverēm ir ļoti laba redze. Šī īpašība ir ļoti svarīga koku vāveru sugām. Vāveru dzimtas dzīvniekiem ir arī ļoti labi attīstīta taustes sajūta, ko nodrošina purna ūsas un matiņi uz ķepām.
+![This is an image](https://img2.spoki.lv/upload2/articles/87/872310/images/Vaveres-2.jpg)
+
+## Vairāk informācijas par [VĀVERĒM](https://lv.wikipedia.org/wiki/V%C4%81veres).
