@@ -1,2 +1,2 @@
-#šis ir pirmais GIT repozitorijs
+# šis ir pirmais GIT repozitorijs
 šis tiks papildināts vēlāk
